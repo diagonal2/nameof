@@ -1,0 +1,11 @@
+{
+    "name": "@diagonal2/nameof",
+    "description": "Provides a type-safe way to access (get/set) object properties.",
+    "version": "0.1.0",
+    "author": "https://github.com/diagonal2",
+    "license": "MIT",
+    "main": "index.ts",
+    "devDependencies": {
+        "eslint": "^9.28.0"
+    }
+}

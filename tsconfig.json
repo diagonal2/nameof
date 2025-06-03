@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "NodeNext",
+        "allowJs": true,
+        "strict": true,
+        "noEmit": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["**/*"],
+    "exclude": ["node_modules"]
+}
